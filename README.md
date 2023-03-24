@@ -21,7 +21,6 @@ A calculator program
 | Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
 | Basic Calculator Button | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Button Border Color | ![#00d1a0](https://via.placeholder.com/10/000000?text=+) #000000
- |
 
 
 ## Documentation
