@@ -1,0 +1,27 @@
+{
+  "name": "calculator-k12",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@anatoliygatt/dark-mode-toggle": "^1.0.1",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@material-ui/core": "^4.12.4",
+    "dotenv": "^16.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "start:prod": "NODE_ENV=prod react-scripts start",
+    "build:prod": "NODE_ENV=prod react-scripts build",
+    "test:prod": "NODE_ENV=prod react-scripts test",
+    "start:test": "NODE_ENV=test react-scripts start",
+    "build:test": "NODE_ENV=test react-scripts build",
+    "test:test": "NODE_ENV=test react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
